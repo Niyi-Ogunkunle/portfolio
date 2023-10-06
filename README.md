@@ -19,15 +19,12 @@ Welcome to my portfolio, showcasing my experience and expertise as a Data Analys
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
 ### Project: The Nigeria Amnesty Programme – Holistic Forensic Audit and Investigation
 Year: 2017
 Location: FCT Abuja, Nigeria
 Client: Senate Committee on Niger-Delta Affairs
 Main Project Features: Forensic Audit and Investigation
-Positions Held: Data Analyst & Audit Expert
+Positions Held: Lead Data Analyst & Audit Expert
 Activities Performed:
 -Conducted comprehensive forensic audits and investigations.
 -Analyzed extensive data sets to identify discrepancies and anomalies.
@@ -36,41 +33,27 @@ Description:
 -In this high-profile assignment, I played a crucial role as a Data Analyst and Audit Expert in conducting a holistic forensic audit and investigation of The Nigeria Amnesty Programme. My responsibilities included data analysis, anomaly detection, and presentation of findings, showcasing my ability to handle complex and sensitive tasks effectively.
 
 ### Project: Inspection of Projects and Special Investigation of Books, Records, and Activities of Niger Delta Commission (NDDC)
-
 Year: 2016
 Location: Port Harcourt, Nigeria
 Client: The Senate Committee on Niger Delta Affairs (NDA)
-Main Project Features:
-
-Forensic Audit Consultancy
-Positions Held:
-
-Data Analyst
-Audit Expert
+Main Project Features: Forensic Audit Consultancy
+Positions Held: Data Analyst & Audit Expert
 Activities Performed:
-
 Conducted forensic analysis of financial records and transactions.
 Detected irregularities and discrepancies through data analysis.
 Produced comprehensive reports to support the investigative process.
 Description:
 This assignment involved the inspection of projects and a special investigation of the NDDC's books and records. As a Data Analyst and Audit Expert, I played a pivotal role in uncovering financial irregularities and providing data-driven insights, demonstrating my proficiency in forensic auditing.
 
-Project: Anambra State Govt. Personnel Costs Forensic Audit
-
-Year: 2015
-Location: Anambra State, Nigeria
-Client: Anambra State Government (AnSG)
-Main Project Features:
-
-Forensic Audit Consultancy
-Positions Held:
-
-Data Analyst
-Audit Expert
+### Project: Anambra State Govt. Personnel Costs Forensic Audit
+-Year: 2015
+-Location: Anambra State, Nigeria
+-Client: Anambra State Government (AnSG)
+-Main Project Features: Forensic Audit Consultancy
+-Positions Held: Data Analyst Audit Expert
 Activities Performed:
-
-Conducted forensic examinations of personnel costs.
-Utilized data analysis techniques to identify discrepancies.
-Assisted in the development of strategies for cost optimization.
+-Conducted forensic examinations of personnel costs.
+-Utilized data analysis techniques to identify discrepancies.
+-Assisted in the development of strategies for cost optimization.
 Description:
-In this assignment, I contributed as a Data Analyst and Audit Expert in conducting a forensic audit of personnel costs for the Anambra State Government. My role involved data analysis and the identification of financial irregularities, showcasing my ability to provide data-driven solutions for complex financial issues.
+-In this assignment, I contributed as a Data Analyst and Audit Expert in conducting a forensic audit of personnel costs for the Anambra State Government. My role involved data analysis and the identification of financial irregularities, showcasing my ability to provide data-driven solutions for complex financial issues.
