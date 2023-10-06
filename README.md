@@ -20,17 +20,17 @@ Welcome to my portfolio, showcasing my experience and expertise as a Data Analys
 
 ## Projects
 ### Project: The Nigeria Amnesty Programme – Holistic Forensic Audit and Investigation
-Year: 2017
-Location: FCT Abuja, Nigeria
-Client: Senate Committee on Niger-Delta Affairs
-Main Project Features: Forensic Audit and Investigation
-Positions Held: Lead Data Analyst & Audit Expert
-Activities Performed:
--Conducted comprehensive forensic audits and investigations.
--Analyzed extensive data sets to identify discrepancies and anomalies.
--Presented data-driven insights and findings to support the audit process.
-Description:
--In this high-profile assignment, I played a crucial role as a Data Analyst and Audit Expert in conducting a holistic forensic audit and investigation of The Nigeria Amnesty Programme. My responsibilities included data analysis, anomaly detection, and presentation of findings, showcasing my ability to handle complex and sensitive tasks effectively.
+- Year: 2017
+- Location: FCT Abuja, Nigeria
+- Client: Senate Committee on Niger-Delta Affairs
+- Main Project Features: Forensic Audit and Investigation
+- Positions Held: Lead Data Analyst & Audit Expert
+- Activities Performed:
+- Conducted comprehensive forensic audits and investigations.
+- Analyzed extensive data sets to identify discrepancies and anomalies.
+- Presented data-driven insights and findings to support the audit process.
+- Description:
+-- In this high-profile assignment, I played a crucial role as a Data Analyst and Audit Expert in conducting a holistic forensic audit and investigation of The Nigeria Amnesty Programme. My responsibilities included data analysis, anomaly detection, and presentation of findings, showcasing my ability to handle complex and sensitive tasks effectively.
 
 ### Project: Inspection of Projects and Special Investigation of Books, Records, and Activities of Niger Delta Commission (NDDC)
 Year: 2016
